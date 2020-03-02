@@ -2,3 +2,4 @@
 *__pycache__
 *.yaml
 *.Rhistory
+.DS_Store
