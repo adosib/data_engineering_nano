@@ -2,10 +2,9 @@
 This project is a part of the Udacity Data Engineering Nanodegree program. In this project, I create tables within a datamart that are linked in a star schema. I then develop an ETL process that normalizes messy JSON log data and populates the tables. Read more about the details below in the 'Background' section.
 
 ## Highlights and things learned
-1. The data includes some non-valid JSON data which I parse and structure into a standard JSON format.
-2. I learned how to walk a directory structure to process all the files contained therein.
-3. I learned to zip() two lists into a Pandas dataframe.
-4. I learned to use the Postgres ORM pycopg2 library
+1. I learned how to walk a directory structure to process all the files contained therein.
+2. I learned to zip() two lists into a Pandas dataframe.
+3. I learned to use the Postgres ORM pycopg2 library
 
 ## Background
 ### Project
